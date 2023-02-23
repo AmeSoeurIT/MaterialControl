@@ -1,0 +1,33 @@
+body{
+    font-family: sans-serif;
+}
+
+.my-checkbox.filled-in:checked + span:not(.lever):after {
+  top: 0;
+
+  width: 20px;
+
+  height: 20px;
+
+  border: 2px solid #2193f3;
+
+  background-color: #2193f3;
+
+  z-index: 0;
+}
+
+
+
+.btn{
+    width: 100%;
+    margin-top: 15px;
+    background-color: #2193f3;
+}
+
+.footer-page-1{
+    margin-top: 15px;
+}
+
+.chekbox-1{
+    margin-left: 10px;
+}
