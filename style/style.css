@@ -31,3 +31,69 @@ body{
 .chekbox-1{
     margin-left: 10px;
 }
+
+
+.nav{
+    font-size: 18px;
+}
+.title-nav{
+    margin-top: 30px;
+}
+h4{
+    margin-top: 45px;
+}
+
+.box-1-1{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px 5px silver;
+    border-radius: 5px;
+}
+
+.friend{
+    margin-top: 25px;
+    font-size: 25px;
+}
+
+.search{
+    margin-top: 25px;
+}
+
+.title{
+    font-weight: bold;
+}
+.material-icons{
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.july{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: silver;
+}
+.tex-2{
+    color: silver;
+}
+
+.menu{
+    background-color: aliceblue;
+    width: 120px;
+    padding: 5px 0 5px 0;
+}
+
+.text{
+    margin-left: 5px;
+}
+.img-2{
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    width: 150px;
+}
+ul li{
+    margin-bottom: 15px;
+}
+ul{
+    margin-top: 25px;
+    margin-left: 100px;
+}
