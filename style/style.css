@@ -61,6 +61,7 @@ h4{
 
 .title{
     font-weight: bold;
+    color: black;
 }
 .material-icons{
     font-size: 18px;
@@ -96,4 +97,37 @@ ul li{
 ul{
     margin-top: 25px;
     margin-left: 100px;
+}
+.input{
+    text-align: right;
+}
+.news{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.box-page-3{
+    border: 1px solid silver;
+    box-shadow: 5px 5px 5px 5px silver;
+    border-radius: 5px;
+}
+.page-3-img{
+    margin-top: 25px;
+}
+.p-t-2{
+    margin-bottom: 15px;
+}
+
+.ul{
+    margin-left: -5px;
+    color: silver;
+}
+.p-2{
+    margin-left: 25px;
+    margin-bottom: -25px;
+}
+.card-title{
+    background-color: black;
+    width: 550px;
+    opacity: 0.8;
 }
